@@ -11,7 +11,11 @@
 
 Welcome to **Fetch Dog Finder**, a web application designed to help dog lovers find their next furry friend. With this app, users can browse, filter, and favorite dogs from a vast database of shelter dogs. The ultimate goal? Finding the perfect match for adoption!
 
-Try the app [here](#).
+## Description
+
+Welcome to **Fetch Dog Finder**, a web application designed to help dog lovers find their next furry friend. With this app, users can browse, filter, and favorite dogs from a vast database of shelter dogs. The ultimate goal? Finding the perfect match for adoption!
+
+[Try the app here!](https://fetch-frontend-takehome-five.vercel.app/).
 
 ---
 
